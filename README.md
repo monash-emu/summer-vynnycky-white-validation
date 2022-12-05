@@ -27,6 +27,7 @@ The images were generated from a PDF version of the textbook found online.
 This was found to be identical to the hard copy version of the textbook,
 except for one figure, as described in the relevant notebook
 (for which the difference pertains to the positioning of figures within panels).
+These examples are illustrated in the notebooks in the `./text_figures/` folder.
 
 Online examples:
 The example spreadsheets in Excel were downloaded from the following URL:
@@ -35,3 +36,4 @@ on 5th December 2022.
 All Excel spreadsheets were saved in the ./excel_examples/spreadsheets/ folder of this repository.
 Many examples are also available from Vynnycky and White in Berkely Madonna;
 these implementations were not considered.
+These examples are illustrated in the notebooks in the `./excel_examples/` folder.
