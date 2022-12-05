@@ -22,7 +22,7 @@ and only pass where the difference remains below a certain tolerance value.
 Textbook:
 Several new hard copies of Vynnycky and White were ordered from amazon.com.au on 13th June 2022
 (sold by Amazon Commercial Services Pty Ltd).
-An image of the information from the details page of these books is provided in the `supporting_docs` folder.
+An image of the information from the details page of these books is provided in the `./supporting_docs/` folder.
 The images were generated from a PDF version of the textbook found online.
 This was found to be identical to the hard copy version of the textbook,
 except for one figure, as described in the relevant notebook
