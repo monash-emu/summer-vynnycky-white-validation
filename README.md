@@ -18,3 +18,20 @@ These tests are located within the summer2 repository (tests/text_external_data 
 at https://github.com/monash-emu/summer2/tree/main/tests/test_external_data.
 These tets formally check the numeric differences between the two approaches
 and only pass where the difference remains below a certain tolerance value.
+
+Textbook:
+Several new hard copies of Vynnycky and White were ordered from amazon.com.au on 13th June 2022
+(sold by Amazon Commercial Services Pty Ltd).
+An image of the information from the details page of these books is provided in the `supporting_docs` folder.
+The images were generated from a PDF version of the textbook found online.
+This was found to be identical to the hard copy version of the textbook,
+except for one figure, as described in the relevant notebook
+(for which the difference pertains to the positioning of figures within panels).
+
+Online examples:
+The example spreadsheets in Excel were downloaded from the following URL:
+https://anintroductiontoinfectiousdiseasemodelling.com/wp-content/uploads/2022/04/Model-Files-006-04-04-22.zip
+on 5th December 2022.
+All Excel spreadsheets were saved in the ./excel_examples/spreadsheets/ folder of this repository.
+Many examples are also available from Vynnycky and White in Berkely Madonna;
+these implementations were not considered.
