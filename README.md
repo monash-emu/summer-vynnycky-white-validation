@@ -34,6 +34,6 @@ The example spreadsheets in Excel were downloaded from the following URL:
 https://anintroductiontoinfectiousdiseasemodelling.com/wp-content/uploads/2022/04/Model-Files-006-04-04-22.zip
 on 5th December 2022.
 All Excel spreadsheets were saved in the ./excel_examples/spreadsheets/ folder of this repository.
-Many examples are also available from Vynnycky and White in Berkely Madonna;
+Many examples are also available from Vynnycky and White in Berkeley Madonna;
 these implementations were not considered.
 These examples are illustrated in the notebooks in the `./excel_examples/` folder.
